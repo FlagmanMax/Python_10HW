@@ -1,0 +1,74 @@
+Maksim, 721325064, /hello
+Maksim, 721325064, /hello
+Maksim, 721325064, /time
+Maksim, 721325064, /time
+Maksim, 721325064, /time
+Maksim, 721325064, /date
+Maksim, 721325064, /time
+Maksim, 721325064, /date
+Maksim, 721325064, /time
+Maksim, 721325064, /sum 1 2
+Maksim, 721325064, /sum 1 2
+Maksim, 721325064, /sum 1+2 3+4
+Maksim, 721325064, /date
+Maksim, 721325064, /sum 1,2i 2,3i
+Maksim, 721325064, /help
+Maksim, 721325064, /help
+Maksim, 721325064, /sum 1,0i -5,-5i
+Maksim, 721325064, /sum 1,1i -7,-7i
+Maksim, 721325064, /sum 1,1i -7,-7i
+Maksim, 721325064, /sum 0,0i 2,2i
+Maksim, 721325064, /help
+Maksim, 721325064, /diff 1,1i -3,-3i
+Maksim, 721325064, /help
+Maksim, 721325064, /diff 1,1i 2,2i
+Maksim, 721325064, /sum 1,1i -2,-2i
+Maksim, 721325064, /mult 1,1i 2,2i
+Maksim, 721325064, /mult 1,1i 2,2i
+Maksim, 721325064, /help
+Maksim, 721325064, /help
+Maksim, 721325064, /help
+Maksim, 721325064, /help
+Maksim, 721325064, /help
+Maksim, 721325064, /mult 1,1i 3,3i
+Maksim, 721325064, /help
+Maksim, 721325064, /div 1,1i 4,4i
+Maksim, 721325064, /div 1,1i 0,0i
+Maksim, 721325064, /help
+Maksim, 721325064, /div 1,1i 0,0i
+Maksim, 721325064, /div 4, 4i 1,1i
+Maksim, 721325064, /div 4,4i 1,1i
+Maksim, 721325064, /sum 2 3
+Maksim, 721325064, /sum 1,1i 2,2i
+Maksim, 721325064, /sum 1 2,2i
+Maksim, 721325064, /sum 1,1i 0
+Maksim, 721325064, /help
+Maksim, 721325064, /help
+Maksim, 721325064, /help
+Maksim, 721325064, /help
+Maksim, 721325064, /help
+Maksim, 721325064, /help
+Maksim, 721325064, /help
+Maksim, 721325064, /diff 3 4
+Maksim, 721325064, /diff 1,1i 2,2i
+Maksim, 721325064, /sum 1 1
+Maksim, 721325064, /sum 1,1i 2
+Maksim, 721325064, /diff 4 5
+Maksim, 721325064, /diff 3 4,5i
+Maksim, 721325064, /help
+Maksim, 721325064, /diff 2,2i 3,1i
+Maksim, 721325064, /diff 2 3
+Maksim, 721325064, /diff 2 -3
+Maksim, 721325064, /diff 1 2
+Maksim, 721325064, /diff 1 -2
+Maksim, 721325064, /diff -1 2
+Maksim, 721325064, /diff -1 -2
+Maksim, 721325064, /mult 1 2
+Maksim, 721325064, /mult -1 2
+Maksim, 721325064, /mult 1 -2
+Maksim, 721325064, /mult -1 -2
+Maksim, 721325064, /mult 1,1i -2
+Maksim, 721325064, /div 1 2
+Maksim, 721325064, /div 1 -2
+Maksim, 721325064, /div 1,1i -2
+Maksim, 721325064, /div 1 0
